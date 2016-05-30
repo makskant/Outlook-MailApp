@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
      Name="OfficeApp9"
-     ProductID="{d44f27f5-d785-4aee-be88-72133c642a61}"
+     ProductID="{291c40c5-3c93-417f-8336-adafcb762c42}"
      Version="1.0.0.0"
      SharePointMinVersion="15.0.0.0"
 >

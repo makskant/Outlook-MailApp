@@ -17,3 +17,4 @@ c:\users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web
 c:\users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web\obj\Debug\OfficeApp9Web.dll
 c:\users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web\obj\Debug\OfficeApp9Web.pdb
+C:\Users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web\obj\Debug\OfficeApp9Web.csprojResolveAssemblyReference.cache

@@ -83,8 +83,6 @@
     <Content Include="AppRead\App.css" />
     <Content Include="AppRead\App.js" />
     <Content Include="AppRead\Home\Home.css" />
-    <Content Include="AppRead\Home\main.html" />
-    <Content Include="AppRead\Home\Home.js" />
     <Content Include="Content\Office.css" />
     <Content Include="Images\Close.png" />
     <Content Include="Scripts\jquery-1.9.1.js" />
