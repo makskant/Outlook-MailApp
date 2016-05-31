@@ -18,3 +18,23 @@ c:\users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web
 c:\users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web\obj\Debug\OfficeApp9Web.dll
 c:\users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web\obj\Debug\OfficeApp9Web.pdb
 C:\Users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9Web\obj\Debug\OfficeApp9Web.csprojResolveAssemblyReference.cache
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\csc.exe
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\vbc.exe
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\OfficeApp9Web.dll.config
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\OfficeApp9Web.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\OfficeApp9Web.pdb
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\obj\Debug\OfficeApp9Web.csprojResolveAssemblyReference.cache
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\obj\Debug\OfficeApp9Web.dll
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9Web\obj\Debug\OfficeApp9Web.pdb

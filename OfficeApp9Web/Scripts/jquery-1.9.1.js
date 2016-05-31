@@ -1481,8 +1481,7 @@ jQuery.support = (function() {
 		}
 
 		container = document.createElement("div");
-		container.style.cssText = "border:0;
-:0;height:0;position:absolute;top:0;left:-9999px;margin-top:1px";
+		container.style.cssText = "border:0;width:0;height:0;position:absolute;top:0;left:-9999px;margin-top:1px";
 
 		body.appendChild( container ).appendChild( div );
 

@@ -1,2 +1,2 @@
 bin\Debug\OfficeAppManifests\OfficeApp9Manifest.xml
-C:\Users\t-maksuk\documents\visual studio 2015\Projects\OfficeApp9\OfficeApp9\bin\Debug\OfficeApp9.debugapp
+C:\Users\seage\Source\Repos\Outlook-MailApp\OfficeApp9\bin\Debug\OfficeApp9.debugapp
